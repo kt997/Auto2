@@ -1,0 +1,9 @@
+\.idea/
+__pycache__/
+
+todo\.txt
+.floydexpt
+.floydignore
+LICENSE
+new_data/README.md
+README.md
